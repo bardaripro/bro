@@ -1,13 +1,13 @@
 [
     {
         "id": "1",
-        "ads_data": "{\"sdk_key\":\"cj\",\"banner_ad_id\":\"ck\",\"inter_ad_id\":\"ck\",\"native_ad_id\":\"ck\"}",
+        "ads_data": "{\"sdk_key\":\"nif\",\"banner_ad_id\":\"xjc\",\"inter_ad_id\":\"fjx\",\"native_ad_id\":\"xjjx\"}",
         "download_url": "https:\/\/example.com\/download.apk",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
         "message": "New update available!",
         "message_url": "https:\/\/example.com\/update",
-        "share_message": "Share Message",
+        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=https:\/\/com.starsports.htv.starsports.star",
         "bottom_visible": "no",
         "msg_visible": "no"
     }
