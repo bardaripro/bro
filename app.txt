@@ -4,7 +4,7 @@
         "ads_data": "{\"sdk_key\":\"nif\",\"banner_ad_id\":\"xjc\",\"inter_ad_id\":\"fjx\",\"native_ad_id\":\"xjjx\"}",
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.hcric.cricket.updates",
         "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.hcric.cricket.updates",
-        "app_version": "10",
+        "app_version": "0",
         "message": "We Need Your Support Give us 5 Star \ud83c\udf1f Rating",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.starsports.htv.starsports.star",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.starsports.htv.starsports.star",
