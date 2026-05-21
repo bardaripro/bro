@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.hcric.cricket.updates",
         "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.hcric.cricket.updates",
         "app_version": "1",
-        "message": "We Need Your Support Give us 5 Star \ud83c\udf1f Rating",
+        "message": "Bored? \ud83d\ude34\nPlay Arrow Escape - Rescue the Pets \ud83d\udc3e\ud83c\udff9\nSolve tricky puzzles, free cute pets, and challenge your brain with every level! \ud83c\udfae\u2728",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.starsports.htv.starsports.star",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.starsports.htv.starsports.star",
         "bottom_visible": "no",
